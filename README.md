@@ -1,5 +1,7 @@
 # CALPHAD-assisted-ML-classifier
 
+This is recent work about CALPHAD-assisted machine learning regression model to predict the eutectic temperature of Ru included HEA.
+
 echo "# CALPHAD-assisted-ML-classifier" >> README.md
 git init
 git add README.md
